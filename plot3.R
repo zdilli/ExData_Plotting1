@@ -1,4 +1,4 @@
-## Script to generate Plot 1 of Programming Assignment 1
+## Script to generate Plot 3 of Programming Assignment 1
 # Class: Exploratory Data Analysis, Date: 11 May 2014
 
 # Read in the data
